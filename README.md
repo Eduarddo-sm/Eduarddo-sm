@@ -114,17 +114,6 @@ Objetivo: atuar profissionalmente como **Desenvolvedor Full Stack**.
 
 ---
 
-## Projetos em Destaque
-
-🔹 **Loja de Troca de Livro**  
-Sistema que processa dados com **PostgreSQL** e **Supabase**, desenvolvido em **TYpeScript/Vite** e **HTML/CSS/JS**.
-
-🔹 **Artigo de Segurança Digital*  
-Projeto com artigo e formulário que processa dados em **PostgreSQL** e **Supabase**, desenvolvido utilizando **TypeScript/Vite** com graficos e indíces comparativos feitos em **JavaScript**
-
-
----
-
 ## Em Aprendizado
 
 - Desenvolvimento Full Stack/ Frontend
@@ -133,27 +122,22 @@ Projeto com artigo e formulário que processa dados em **PostgreSQL** e **Supaba
 
 ---
 
-## Contato
-<img 
+### 📊 Estatísticas
+
+<p>
+  <img 
     align="left" 
-    alt="Linkedin" 
-    title="Linkedin"
-    width="20px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-/>
-https://www.linkedin.com/in/eduardo-mesquita-dev/
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Eduarddo-sm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
-    align="left" 
-    alt="gmail" 
-    title="gmail"
-    width="20px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" 
-/>
-eduardosilvamesquita61@gmail.com 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarddo-sm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
----
-
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
+</p>
