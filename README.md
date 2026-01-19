@@ -19,28 +19,98 @@ Objetivo: atuar profissionalmente como **Desenvolvedor Full Stack**.
 ## Tecnologias & Ferramentas
 
 ### Linguagens
-- TypeScript
-- JavaScript
-- Python
-- SQL
-- HTML5
-- CSS3
 
-### Frameworks & Bibliotecas
-- Chart.js
-- Pandas
-- SQLAlchemy
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostregreSQL" 
+    title="PostregreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dbeaver" 
+    title="Dbeaver"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
 
-### Banco de Dados
-- SQL Server
-- PostgreSQL
-
-### Ferramentas
-- Git & GitHub
-- VS Code
-- Excel
-- Supabase
-- Dbeaver
+</br>
+</br>
 
 ---
 
@@ -64,9 +134,25 @@ Projeto com artigo e formulário que processa dados em **PostgreSQL** e **Supaba
 ---
 
 ## Contato
+<img 
+    align="left" 
+    alt="Linkedin" 
+    title="Linkedin"
+    width="20px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+/>
+https://www.linkedin.com/in/eduardo-mesquita-dev/
 
-- LinkedIn: *(https://www.linkedin.com/in/eduardo-mesquita-dev/)*
-- Email: *(eduardosilvamesquita61@gmail.com)*  
+<img 
+    align="left" 
+    alt="gmail" 
+    title="gmail"
+    width="20px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" 
+/>
+eduardosilvamesquita61@gmail.com 
 
 ---
 
