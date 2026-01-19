@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo Mesquita
 
-Desenvolvedor em formação | Futuro Full Stack  
+Desenvolvedor Full Stack | Desenvolvedor Frontend | 
 Brasil | Buscando oportunidades na área de Desenvolvimento Web
 
 ---
